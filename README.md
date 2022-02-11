@@ -1,6 +1,6 @@
 # Cognizant Softvision challenge
 
-![Cognizant Softvision](./src/assets/logo.png "Cognizant Softvision")
+## Gracias a Gonzy Pozzo por facilitar el Challenge
 
 Necesitamos una manera interna, fácil de poder administrar nuestros candidatos basado en que paso se encuentran, vivimos en un universo paralelo donde trello ni kanban existen pero se nos ocurrió una genial idea donde nos organizamos usando columnas y filas.
 
